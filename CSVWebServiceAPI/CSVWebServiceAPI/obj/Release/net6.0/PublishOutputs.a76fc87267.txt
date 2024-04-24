@@ -1,0 +1,11 @@
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Release\net6.0\PubTmp\Out\CSVWebServiceAPI.exe
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Release\net6.0\PubTmp\Out\CSVWebServiceAPI.dll
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Release\net6.0\PubTmp\Out\CSVWebServiceAPI.deps.json
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Release\net6.0\PubTmp\Out\CSVWebServiceAPI.runtimeconfig.json
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Release\net6.0\PubTmp\Out\CSVWebServiceAPI.pdb
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

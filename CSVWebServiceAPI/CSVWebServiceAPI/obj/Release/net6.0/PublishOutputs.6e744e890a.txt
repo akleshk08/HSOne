@@ -1,0 +1,11 @@
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Docker\publish\CSVWebServiceAPI.exe
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Docker\publish\appsettings.Development.json
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Docker\publish\appsettings.json
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Docker\publish\CSVWebServiceAPI.dll
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Docker\publish\CSVWebServiceAPI.deps.json
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Docker\publish\CSVWebServiceAPI.runtimeconfig.json
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Docker\publish\CSVWebServiceAPI.pdb
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Docker\publish\Microsoft.OpenApi.dll
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Docker\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nsami\source\repos\CSVWebServiceAPI\CSVWebServiceAPI\obj\Docker\publish\Swashbuckle.AspNetCore.SwaggerUI.dll

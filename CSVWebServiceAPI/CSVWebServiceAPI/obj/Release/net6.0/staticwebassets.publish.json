@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "IcBJyLW0ug+CUsChcLTTU5qAyAboT1QGFrl0x8E1JkU=",
+  "Source": "CSVWebServiceAPI",
+  "BasePath": "_content/CSVWebServiceAPI",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
